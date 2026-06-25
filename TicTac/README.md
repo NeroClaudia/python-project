@@ -63,7 +63,7 @@ Table: `players`
    ```
 5. Run (replace the driver jar path with your own):
    ```
-   java -cp "out:lib/mysql-connector-j-9.0.0.jar" Main
+   java -cp "out;lib/mysql-connector-j-9.7.0.jar" Main
    ```
    (On Windows, use `;` instead of `:` to separate classpath entries.)
 6. The Login Window will appear. Log in with one of the sample users
